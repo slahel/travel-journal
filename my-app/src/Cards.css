@@ -1,0 +1,44 @@
+.cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 60px;
+}
+
+.card-photo {
+  height: 220px;
+  width: 300px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+.card-text {
+  margin-top: 10px;
+  margin-left: 40px;
+  width: 450px;
+}
+.location {
+  font-size: 16px;
+  margin-left: 5px;
+  letter-spacing: 0.15em;
+}
+.GoogleMaps {
+  font-size: 16px;
+  color: #918e9b;
+  margin-left: 20px;
+}
+.title {
+  font-size: 25px;
+  font-weight: 700;
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
+
+.date {
+  font-size: 15px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+.description {
+  font-size: 15px;
+  font-weight: 300;
+}
