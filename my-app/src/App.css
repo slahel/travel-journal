@@ -2,7 +2,11 @@
   background: #f55a5a;
   color: white;
   font-weight: 700;
-  font-size: 22px;
+  font-size: 24px;
   height: 70px;
   text-align: center;
+}
+.App .earth {
+  margin-right: 10px;
+  line-height: -5px;
 }
