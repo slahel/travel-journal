@@ -3,7 +3,10 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <div className="header">My Travel Journal</div>
+      <header>my travel journal</header>
+      <div>
+        <img src="../images/Earth.png" />
+      </div>
     </div>
   );
 }
