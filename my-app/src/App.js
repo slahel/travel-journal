@@ -1,5 +1,6 @@
 import "./App.css";
 import Earth from "./images/Earth.png";
+import Cards from "./Cards";
 
 function App() {
   return (
@@ -8,7 +9,7 @@ function App() {
         <img src={Earth} className="earth" />{" "}
         <span className="title">my travel journal</span>
       </header>
-      <div></div>
+      <Cards />
     </div>
   );
 }
