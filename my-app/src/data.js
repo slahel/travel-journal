@@ -17,7 +17,7 @@ export default [
     location: "Portugal",
     googleMapsUrl:
       "https://www.google.com/maps/place/Lisbon,+Portugal/@38.7437395,-9.2304153,12z/data=!3m1!4b1!4m5!3m4!1s0xd19331a61e4f33b:0x400ebbde49036d0!8m2!3d38.7222524!4d-9.1393366",
-    date: "Mar 2017",
+    date: "Feb 2016",
     description:
       "Lisbon is Portugal’s hilly, coastal capital city. From imposing São Jorge Castle, the view encompasses the old city’s pastel-colored buildings, Tagus Estuary and Ponte 25 de Abril suspension bridge. ",
     imageUrl:
@@ -25,6 +25,18 @@ export default [
   },
   {
     id: 3,
+    title: "Copenhagen",
+    location: "Denmark",
+    googleMapsUrl:
+      "https://www.google.com/maps/place/Copenhagen,+Denmark/@55.6711876,12.4537421,11z/data=!3m1!4b1!4m5!3m4!1s0x4652533c5c803d23:0x4dd7edde69467b8!8m2!3d55.6760968!4d12.5683372",
+    date: "May 2017",
+    description:
+      "Copenhagen, Denmark’s capital, sits on the coastal islands of Zealand and Amager. It’s linked to Malmo in southern Sweden by the Öresund Bridge.",
+    imageUrl:
+      "https://images.unsplash.com/photo-1586622992874-27d98f198139?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y29wZW5oYWdlbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+  },
+  {
+    id: 4,
     title: "Saint Lucia",
     location: "Saint Lucia",
     googleMapsUrl:
@@ -35,8 +47,9 @@ export default [
     imageUrl:
       "https://images.unsplash.com/photo-1520115736066-2190b58a4b9e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
   },
+
   {
-    id: 4,
+    id: 5,
     title: "Lyon",
     location: "France",
     googleMapsUrl:
@@ -48,7 +61,7 @@ export default [
       "https://images.unsplash.com/photo-1569087306794-db9947393580?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=772&q=80",
   },
   {
-    id: 5,
+    id: 6,
     title: "Lake Como",
     location: "Italy",
     googleMapsUrl:
@@ -60,7 +73,7 @@ export default [
       "https://images.unsplash.com/photo-1586368522806-002a180e87f0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1289&q=80",
   },
   {
-    id: 6,
+    id: 7,
     title: "Carcassone",
     location: "France",
     googleMapsUrl:
@@ -72,7 +85,7 @@ export default [
       "https://images.unsplash.com/photo-1580513860129-dee8825dfe44?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=729&q=80",
   },
   {
-    id: 7,
+    id: 8,
     title: "Mont-Saint-Michel Bay",
     location: "France",
     googleMapsUrl:
